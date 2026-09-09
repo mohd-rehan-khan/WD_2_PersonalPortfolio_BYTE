@@ -48,11 +48,6 @@
           <text x="293" y="333" font-size="52" fill="#151716">X</text>
         </g>
       </g>
-
-      <g transform="translate(710 280)">
-        <circle cx="78" cy="78" r="78" fill="#F26A4F"/>
-        <text x="78" y="102" text-anchor="middle" fill="#F8F6F2" font-size="60" font-family="Arial, sans-serif" font-weight="700">X</text>
-      </g>
     </g>
 
     <text x="120" y="680" fill="#151716" font-size="24" font-family="Arial, sans-serif" letter-spacing="4" text-transform="uppercase">play / think / win</text>

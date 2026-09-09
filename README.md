@@ -26,7 +26,7 @@ This portfolio is built using HTML, CSS, and JavaScript and focuses on:
 
 ### 1. Tic Tac Toe Game
 
-![Tic Tac Toe Game Screenshot](https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80)
+![Tic Tac Toe Game Screenshot](assets/tic-tac-toe-portfolio.svg)
 
 A simple but polished browser game built with HTML, CSS, and JavaScript. It focuses on interaction design, game logic, and a clean game board.
 

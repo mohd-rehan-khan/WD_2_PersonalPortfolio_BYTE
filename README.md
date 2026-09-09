@@ -4,7 +4,7 @@ A personal portfolio website showcasing my work as a web developer and aspiring 
 
 ## Live Portfolio
 
-[Open Portfolio](https://mohd-rehan-khan.github.io/)
+[Open Portfolio](https://wd-2-personal-portfolio-byte.vercel.app/)
 
 ## About
 
